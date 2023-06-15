@@ -1,4 +1,4 @@
-# Array & Link list project by using tkinter(GUi)
+# Array & Linked list project by using tkinter(GUi)
 
 import tkinter as tk
 from tkinter import *
